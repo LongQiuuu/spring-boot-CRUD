@@ -1,0 +1,6 @@
+sg001,吳一男(BIG5:file),1960-5-1,enan_wu@SquidGame.com,/images/001.jpg
+sg067,姜曉(BIG5),1985-7-2,Jiang_Xiao@outlook.com,/images/067.jpg
+sg101,張德秀(BIG5),1970-10-12,Dexiu_chang1975@gmail.com,/images/101.jpg
+sg212,韓美女(BIG5),1976-11-2,korean_beauty1984@outlook.com,/images/212.jpg
+sg218,曹尚佑(BIG5),1985-4-23,CaoShangyou1984@SquidGame.com,/images/218.jpg
+sg456,成奇勳(BIG5),1982-6-8,ChengQixun1980@gmail.com,/images/456.jpg

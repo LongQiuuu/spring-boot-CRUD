@@ -1,0 +1,43 @@
+body { 
+  background-color: #DFDFFF;
+  font-family: verdana;
+  font-size: 15pt;
+}
+
+.servlet { 
+  background-color: #ECFAFD;
+  font-family: verdana;
+  font-size: 16pt;
+}  
+
+td { 
+  font-family: verdana;
+  font-size: 11pt;
+}
+th { 
+  font-family: verdana;
+  font-size: 12pt;
+  text-align: center;
+}
+
+h4 { 
+  font-family: verdana;
+  font-size: 14pt;
+  text-align: center;
+}    
+
+legend {
+	font-weight: bold;
+	color: black;
+	background-color: white;
+	border: 1px solid #cccccc;
+	padding: 4px 2px;
+}
+
+fieldset {
+	font-weight: bold;
+	color: black;
+	background-color: #ffffcc;
+	border: 1px solid #cccccc;
+	padding: 4px 2px;
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "customerId":1,"name":"林麗莎","password":"P@ssw0rd258",
+    "email":"lisalinng2588@gmail.com","birthday":"1984-11-16",
+    "lastPostTime":"2019-05-05T21:06:07.666+00:00",
+    "registerTime":"2020-08-07T23:32:20.235+00:00","totalPayment":7890.6
+  },
+  {
+    "customerId":3,"name":"梁美華","password":"Do!ng123",
+    "email":"eeit11700@gmail.com","birthday":"1990-05-03",
+    "lastPostTime":"2015-05-06T02:20:35.999+00:00",
+    "registerTime":"2020-08-08T01:24:13.341+00:00","totalPayment":258.0
+  },
+  {
+    "customerId":4,"name":"林小明","password":"L!st0350",
+    "email":"mingminglin@outlook.com","birthday":"2001-09-17",
+    "lastPostTime":"2020-04-06T09:35:49.667+00:00",
+    "registerTime":"2020-08-08T01:25:17.908+00:00","totalPayment":2580.0
+  }
+]
